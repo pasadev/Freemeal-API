@@ -1,0 +1,2 @@
+# Freemeal-API
+A Dashboard with a layout, slidein slideout sidebar and footer.  https://www.themealdb.com/api.php  In the middle there is a recipes page that shows in a list the meals that have been fetched from the API. There is also a contact page that is shown in the middle.  The technical stack is React + Redux (Js or Native), React router to change the view between the two different pages. Styled Components for creating React components with integrated CSS rxjs for a better async and callback based code. Use Axios for API calls Using Typescript would be a bonus.
